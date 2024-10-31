@@ -13,5 +13,6 @@ class GiaiThuaTest {
         actual = giaiThua.tinhGiaiThua(5);
         expected = 120;
         assertEquals(expected,actual);
+        System.out.println("OK");
     }
 }

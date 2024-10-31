@@ -10,6 +10,7 @@ public class GiaiThua {
                 System.out.println(ketQua);
                 ketQua = ketQua * i;
             }
+        System.out.println("OK");
 //         i = 2 , i = 3 x2 = 6 , i = 4 x 6 = 24 , i = 5 x 24 =  120
 //        i = 1 , i = 2 x 1 = 2 , i = 3 x 2 = 6 , i = 4 x 6 = 24 , i = 5 x 24 = 120
 
